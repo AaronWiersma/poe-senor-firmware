@@ -1,1 +1,1 @@
-# poe-senor-firmware
+# poe-sensor-firmware
